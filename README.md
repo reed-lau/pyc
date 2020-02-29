@@ -8,3 +8,7 @@ https://docs.python.org/3/c-api/structures.html
 
 https://docs.python.org/3/c-api/arg.html
 
+自定义类型
+
+https://docs.python.org/3/c-api/typeobj.html
+
